@@ -1,0 +1,24 @@
+{
+  "name": "fourth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^8.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhernovs/test-meta-gh-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhernovs/test-meta-gh-4/issues"
+  },
+  "homepage": "https://github.com/zhernovs/test-meta-gh-4#readme"
+}
